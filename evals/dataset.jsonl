@@ -1,0 +1,7 @@
+{"question": "How many days of annual leave do full-time employees get?", "expected_source": "acme_handbook.md", "expected_keywords": ["25"]}
+{"question": "How many unused leave days can I carry over?", "expected_source": "acme_handbook.md", "expected_keywords": ["5"]}
+{"question": "When is a doctor's note required for sick leave?", "expected_source": "acme_handbook.md", "expected_keywords": ["3"]}
+{"question": "How many days a week can I work remotely?", "expected_source": "acme_handbook.md", "expected_keywords": ["3"]}
+{"question": "How big is the home-office stipend?", "expected_source": "acme_handbook.md", "expected_keywords": ["400"]}
+{"question": "How soon must I report a security incident?", "expected_source": "acme_handbook.md", "expected_keywords": ["24"]}
+{"question": "What is the CEO's favourite colour?", "expected_source": null, "expected_keywords": ["couldn't find", "could not find", "not find"]}
